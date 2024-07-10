@@ -16,7 +16,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
-<img src='https://github.com/elifgazioglu/will-you-marry-me/assets/103602957/f98c46bf-32ac-4d51-8530-35562746d159'/>
+https://github.com/elifgazioglu/will-you-marry-me/assets/103602957/f98c46bf-32ac-4d51-8530-35562746d159
 
 ---
 

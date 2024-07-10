@@ -1,5 +1,5 @@
 
-### 🌐 Socials: mnuradiyat
+### 🌐 Socials Media
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/instagram.com/mnuradiyat) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/instagram.com/mnuradiyat) 
 
 # 💻 Tech Stack:
